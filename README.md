@@ -2,6 +2,8 @@
 
 This app is a demo implemented in the context of an interview challenge.
 
+<img src="https://raw.githubusercontent.com/tiagocastro070/mock-meta-weather/main/app-screenshot.png" />
+
 ## Run the application
 
 After cloning this repository, run the following commands:
